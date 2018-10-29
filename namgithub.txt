@@ -1,0 +1,60 @@
+2.6 - 2.8 miercoles 
+
+
+
+mapa c 2.1, mapa 2,2y 2,3 , mapa c 2.4 y 2.5 buscar plujin para validar  juankrlos11
+bernardinooctavio
+
+proyecto appweb
+pagina inicio template
+inicio de secion entre profesores.fejes y alumnos(tipos de usuaios)
+-jefe ve todas las calificacion de alumnos (materia,ciclo escolar) y autorizar calificaciones y asignar materias a profesores y autoriza cambios a califcaciones
+-profesor ingresar calidficaciones a grupos por materias y modificar calificaciones
+-alumnos puede ver solo la calificaciones de el
+
+
+
+inicio de secion  profesores fejes y alumnos(tipos de usuaios)
+-jefe ve todas las calificacion de alumnos (materia,ciclo escolar)  autoriza calificaciones, asigna materias a profesores y autoriza cambios a califcaciones
+-profesor ingresa calificaciones  por materias y modifica calificaciones
+-alumnos ve solamente sus calificaciones
+
+
+
+-graficas para el jefe de division 
+(indices de reprovacion y aprovacion por materia)
+
+funciones basicas del crud leer modificar eliminar
+
+
+para la siguiente clase
+inciar a definir objetivos, planteamineto del problema y justificacion
+objetivos a base de taxonomia marzano
+objet_gral(que, como, paraque)
+objt_speci(que voy a hacer)
+
+
+
+
+problematica 
+la jefatura de division de isc asi como los profesores necesitan una sistema el cual capture calificaciones de los alumnos,
+
+planteamineto
+
+en el tecnologico de estudios superiores de valle de bravo, las fefaturas de division necesitan tener un control de las calificaciones de los alumnos,
+debido a que constantemente ocurren situaciones donde las calificaciones son capturadas de forma erronea de tal forma que tiene un efecto negativo 
+en el historial academico de lo alumnos, El jefe de division tiene la responsabilidad de verificar que la informacion capturada sea veridica y autorizar
+ los cambios realizados. Ademas.la asigancion de materias a cada profesor.
+por su parte los alumnos requieren unicamente visualizar calificaiones propias.
+
+
+morelos
+alumnos registrados, grupos años
+estadisticas 
+pdf reporte mensual,anual,
+apartado de agregar editar eliminar datos
+inicio de secion de usuarios
+interfaz agradable
+
+ 
+

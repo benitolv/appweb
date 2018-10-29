@@ -1,0 +1,10 @@
+select p.nombre, m.materia, c.calificacion, un.unidad FROM personas p, calificaciones c, unidades un, asigna_mat asg, materias m, unidades_mat um where asg.id_persona=p.id_persona and asg.id_materia=m.id_materia and c.id_materia=m.id_materia and c.id_persona=p.id_persona and c.id_unidad=un.id_unidad and um.id_materia=m.id_materia and um.id_unidad=un.id_unidad
+
+
+
+SELECT nombre, apellido_paterno, apellido_materno 
+      FROM personas, usuarios, tipo_usuarios
+       WHERE personas.id_usuario=usuarios.id_usuario
+       AND usuarios.id_tipo_usuario=tipo_usuarios.id_tipo_usuario 
+       AND tipo_usuarios.id_tipo_usuario=1
+       ORDER BY personas.apellido_paterno 
